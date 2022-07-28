@@ -16,6 +16,9 @@ This assignment will have you practice controlling motors through guided user in
 
 ***Submit by adding these files and committing them to your assignment repo.***
 
+## ***Authors***
+- [Team 3647, Edward Sun](https://github.com/EdwardoSunny)
+
 
 
 
